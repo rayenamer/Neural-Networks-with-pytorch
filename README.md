@@ -58,9 +58,21 @@ This repository contains **IBM's official PyTorch course materials**, covering *
 git clone https://github.com/rayenamer/Deep-Learning-PyTorch.git
 cd Deep-Learning-PyTorch
 pip install torch torchvision numpy matplotlib
-
+```
 
 ---
+
+## **Learning Path**  
+1. **Start with Module 1 (Tensors & Autograd)**  
+2. **Proceed to Linear Regression (Module 2)**  
+3. **Master Optimization Techniques (Module 3)**  
+4. **Explore Advanced Regression (Module 4) & Logistic Classification (Module 5)**  
+5. **Complete the Wine Classification & LoL Predictor Projects**  
+
+---
+
+## **IBM Certification**  
+This content is part of **IBM’s PyTorch Deep Learning Professional Certificate**. Completing all labs prepares you for IBM’s certification exam.  
 
 ---
 
@@ -70,6 +82,12 @@ pip install torch torchvision numpy matplotlib
 - For **individual educational use only**  
 - **No commercial redistribution** without IBM’s permission  
 
+---
+
+## **Support & Contributions**  
+- **For technical issues**: Open a GitHub issue  
+- **For course-related questions**: Refer to IBM’s official learning portal  
+- **Contributions**: Since this is an IBM course, modifications to core content are restricted, but forks for personal use are allowed.  
 
 ---
 
